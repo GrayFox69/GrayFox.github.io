@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .h2 {
+      width: 100%;
+      display: inline-block;
+  }
+  .SelectOptions{
+      text-align: left;
+      margin-left: 20%;
+  }
+  .SelectSection {
+      text-align: justify;
+      text-align: center;
+  }
