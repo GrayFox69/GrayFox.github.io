@@ -6,6 +6,7 @@ html {
 
   .body {
     background-color:rgb(63, 109, 127);
+    height: auto;
   }
   .header {
     background-color: rgb(50, 90, 106);
@@ -25,17 +26,16 @@ html {
       text-align: left;
       margin-left: 20%;
       background-color: rgb(50, 90, 106);
+      height: auto;
   }
   .SelectSection {
       text-align: justify;
       text-align: center;
       background-color: rgb(50, 90, 106);
   }
-  #Input{
-    align-self:left;
-    width: auto;
-  }
   #SelectBody{
-    width: 60%;
+    width: 100%;
     align-self: right;
+    float: right;
+    word-wrap: break-word;
   }
