@@ -12,3 +12,11 @@
     <script src="script.js"> </script>
 </body>
 </html>
+
+
+
+<img src="https://cdn.masterorganicchemistry.com/wp-content/uploads/2022/09/2-less-important-functional-groups-in-organic-chemistry-nitrile-epoxide-disulfide-imine-acid-chloride-anhydride-nitro-sulfide.gif">
+            <img src="https://cdn.masterorganicchemistry.com/wp-content/uploads/2022/09/3-Functional-groups-containing-hydrocarbons-alkyl-alkenyl-alkynyl-phenyl.gif">
+            <img src="https://cdn.masterorganicchemistry.com/wp-content/uploads/2022/09/12-Introduction-to-anhydride-acid-chloride-amide-nitrile-functional-groups.gif">
+            <img src="https://cdn.masterorganicchemistry.com/wp-content/uploads/2022/09/15-Miscellaneous-functional-groups-epoxide-imine-azide-nitro.gif">
+            <img src="https://cdn.masterorganicchemistry.com/wp-content/uploads/2022/09/6-Functional-groups-resulting-in-alcohols-ethers-esters-and-carboxylic-acids.gif">
