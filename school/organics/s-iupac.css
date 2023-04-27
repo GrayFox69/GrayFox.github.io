@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(63, 109, 127);
+}
+.header{
+  padding-bottom:10px;
+  padding-top:10px;
+  text-align:center;
+  
+}
+h2{
+  text-align: center;
+  margin-block-start: 0.1em;
+}
+t1{
+  text-align:justify;
+  font-style: Times-New-Roman;
+  font-size: 20px
+}
+t3{
+  font:bold;
+}
+.grid{
+  display: grid;
+  grid-auto-columns:2;
+  grid-row:1;
+  align-items: center;
+}
+#picture{
+  grid-area: 1/1/span 1/span 1;
+}
+#text{
+  grid-area: 1/2/span 1/ span 1;
+}
